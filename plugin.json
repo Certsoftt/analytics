@@ -2,7 +2,7 @@
   "name": "Analytics Plugin",
   "description": "Live real-time analytics for admin dashboard, tracking visits, clicks, geo data, engagement, and more.",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "Certsoftt a.k.a Ubsimple",
   "active": false,
   "main": "src/Http/Controllers/AnalyticsController.php",
   "providers": [
